@@ -19,8 +19,6 @@ function App() {
     e.target.value = parseFloat(val).toFixed(2);
   };
 
-
-
   return (
     <div>
       <button className="ui button">Button</button>
@@ -28,8 +26,7 @@ function App() {
       <Button primary>Primary Button React</Button>
       <Button secondary>Secondary Button React</Button>
       <Button secondary>Another Secondary Button React</Button>
-      <Input type="text" value="16" onBlur={handleBlur.bind(this)} onFocus={handleFocus.bind(this)}/>
-
+      <Input type="text" value="11" onBlur={handleBlur.bind(this)} onFocus={handleFocus.bind(this)}/>
     </div>
   );
 }

@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1b89a527-f39a-4270-a593-262dd7f174e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +120,7 @@
       <workItem from="1559038908115" duration="101000" />
       <workItem from="1559046048114" duration="1017000" />
       <workItem from="1559136613237" duration="1000" />
-      <workItem from="1571216477943" duration="4383000" />
+      <workItem from="1571216477943" duration="4955000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1558006797213</created>
@@ -135,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571219588094</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit.">
+      <created>1571220865471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571220865471</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
