@@ -8,8 +8,8 @@ class Main extends Component {
   render() {
     return (
       <div>
-        <button class="ui button">Button</button>
-        <button class="ui primary button">Button</button>
+        <button className="ui button">Button</button>
+        <button className="ui primary button">Button</button>
         <Button primary>Primary Button React</Button>
         <Button secondary>Secondary Button React</Button>
         <Button secondary>Another Secondary Button React</Button>
